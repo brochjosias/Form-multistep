@@ -1,31 +1,52 @@
 # Form-multistep
 
-Bem-vindo ao Formulário Multistep! Formulário que é dividido em várias etapas, permitindo que os usuários completem uma parte do formulário de cada vez, em vez de preencher todas as informações de uma vez só.
+Bem-vindo ao Formulário Multistep! Este formulário é dividido em várias etapas, permitindo que os usuários completem uma parte do formulário de cada vez, em vez de preencher todas as informações de uma vez só.
 
-Componentes de Etapa: Componentes individuais que representam cada etapa do formulário. Cada componente de etapa é responsável por coletar um conjunto específico de dados.
+## Componentes de Etapa
 
-Navegação entre Etapas: Os usuários podem navegar entre as diferentes etapas do formulário usando botões de próxima e anterior.
+Componentes individuais que representam cada etapa do formulário.
+Cada componente de etapa é responsável por coletar um conjunto específico de dados.
 
-Validação de Etapa: A validação dos dados inseridos em cada etapa pode ser realizada antes de permitir que o usuário prossiga para a próxima etapa.
+## Navegação entre Etapas
 
-Funcionalidades: Divisão em Etapas, Componentes de Etapa, Navegação entre Etapas, Validação de Dados, Feedback Visual e Finalização.
+Os usuários podem navegar entre as diferentes etapas do formulário usando botões de próxima e anterior.
 
-Tecnologias Utilizadas: Linguagens de Programação: JavaScript, HTML e CSS; Frameworks: React; Banco de Dados: Local Storage;
+## Validação de Etapa
 
-É um sistema front-end pronto para ser integrado.
+A validação dos dados inseridos em cada etapa pode ser realizada antes de permitir que o usuário prossiga para a próxima etapa.
 
-Configuração do Ambiente de Desenvolvimento, siga estas etapas:
+## Funcionalidades
 
-Faça o download do repositório;
+Divisão em Etapas
+Componentes de Etapa
+Navegação entre Etapas
+Validação de Dados
+Feedback Visual
+Finalização
 
-Em seu ambiente de desenvolvimento:
+## Tecnologias Utilizadas
 
-cd multistep-form-react;
+Linguagens de Programação: _JavaScript_, _HTML_, _CSS_
+Frameworks: _React_
+Banco de Dados: _Local Storage_
+_É um sistema front-end pronto para ser integrado._
 
-Instale as Dependências: npm install;
+## Faça o download do repositório e em seu ambiente de desenvolvimento:
 
-Inicie o Projeto: npm run dev;
+```bash
+cd multistep-form-react
+```
 
-Clique no link fornecido para acessar;
+Instale as Dependências
 
-Assim que carregar aparecerá o sistema em seu navegador padrão.
+```bash
+npm install
+```
+
+Inicie o Projeto
+
+```bash
+npm run dev
+```
+
+Clique no link fornecido no terminal para acessar. Assim que carregar, o sistema será exibido no seu navegador padrão.
