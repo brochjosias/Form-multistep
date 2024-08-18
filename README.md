@@ -26,10 +26,10 @@ Finalização
 
 ## Tecnologias Utilizadas
 
-Linguagens de Programação: _JavaScript_, _HTML_, _CSS_
-Frameworks: _React_
-Banco de Dados: _Local Storage_
-_É um sistema front-end pronto para ser integrado._
+- JavaScript
+- HTML
+- CSS
+- React
 
 ## Faça o download do repositório e em seu ambiente de desenvolvimento:
 
